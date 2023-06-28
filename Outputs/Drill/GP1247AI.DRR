@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GP1247AI.PCBDOC   28.06.2023  09:26:20
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GP1247AI-RoundHoles.TXT
+ASCII SlotHoles File : GP1247AI-SlotHoles.TXT
+EIA File   : GP1247AI.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             107       PTH        327.83mm (12.91inch)
+T2      0.4mm (16mil)                                             Round             40        PTH        45.01mm (1.77inch)
+T3      0.75mm (30mil)                                            Slot              65        PTH        272.75mm (10.74inch)
+T4      1.3mm (51mil)                                             Round             2         PTH        57.57mm (2.27inch)
+T5      1.4mm (55mil)                                             Round             12        PTH        36.16mm (1.42inch)
+T6      2.1mm (83mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T7      2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
+T8      4.4mm (173mil)                                            Round             4         NPTH       370.00mm (14.57inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              232
+
+Total Processing Time (hh:mm:ss) : 00:00:00

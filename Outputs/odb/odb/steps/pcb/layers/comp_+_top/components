@@ -1,0 +1,249 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 11 6.2007874 0.1102362 270 N U5 ISL76671AROZ-T7 ;0=1,1=0.0000
+PRP Datasheet_Link 'https://www.renesas.com/en-us/www/doc/datasheet/isl76671.pdf'
+PRP Geometry.Height '0.8mm'
+PRP Manufacturer_Name 'Renesas Electronics'
+PRP Manufacturer_Part_Number 'ISL76671AROZ-T7'
+PRP Mouser_Part_Number '968-ISL76671AROZ-T7'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Renesas-Intersil/ISL76671AROZ-T7?qs=9fLuogzTs8KH%2F0coQfRtPw%3D%3D'
+TOP 0 6.1751968 0.0688976 270 N 37 15 1
+TOP 1 6.2007874 0.0688976 270 N 44 23 2
+TOP 2 6.226378 0.0688976 270 N 0 0 3
+TOP 3 6.226378 0.1515748 270 N 5 2 4
+TOP 4 6.2007874 0.1515748 270 N 0 1 5
+TOP 5 6.1751968 0.1515748 270 N 43 4 6
+TOP 6 6.2007874 0.1102362 180 N 44 24 7
+#
+# CMP 1
+CMP 0 6.2893701 0.1515748 90 N R23 100K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '70755'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '100K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 6.2893701 0.1515748 90 N 5 3 1
+TOP 1 6.2893702 0.090575 90 N 44 34 2
+#
+# CMP 2
+CMP 0 6.1122047 0.1298974 90 N C29 100NF/50V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 6.1122047 0.1298974 90 N 44 58 1
+TOP 1 6.1122048 0.0688976 90 N 37 21 2
+#
+# CMP 3
+CMP 6 6.496063 0.1968504 0 N MP4 M3,_height_1mm ;0=2,1=0.0394
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://katalog.we-online.de/em/datasheet/9774010360.pdf'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '9774010360'
+PRP Material 'Steel'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-55 to 150 degC'
+PRP Packaging 'Bulk'
+PRP Part_Number '9774010360'
+PRP Pricing_1 '1=2.54, 10=2.41, 50=2.28, 100=2.11, 1000=2.11, 10000=2.11 (USD)'
+PRP Published_Date 'November 2018'
+PRP Publisher 'Wurth Elektronik'
+PRP Solder_Cream_Thickness '150 um'
+PRP Stock '200'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '710-9774010360'
+PRP Surface 'Tin'
+PRP Text_Field1 '148883'
+PRP Text_Field7 'Würth: 9774010360'
+PRP Thread 'M3'
+PRP Tightening_Torque '0.5 Nm'
+TOP 0 6.496063 0.1968504 180 N 0 63 1
+#
+# CMP 4
+CMP 6 6.496063 2.1653543 0 N MP3 M3,_height_1mm ;0=2,1=0.0394
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://katalog.we-online.de/em/datasheet/9774010360.pdf'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '9774010360'
+PRP Material 'Steel'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-55 to 150 degC'
+PRP Packaging 'Bulk'
+PRP Part_Number '9774010360'
+PRP Pricing_1 '1=2.54, 10=2.41, 50=2.28, 100=2.11, 1000=2.11, 10000=2.11 (USD)'
+PRP Published_Date 'November 2018'
+PRP Publisher 'Wurth Elektronik'
+PRP Solder_Cream_Thickness '150 um'
+PRP Stock '200'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '710-9774010360'
+PRP Surface 'Tin'
+PRP Text_Field1 '148883'
+PRP Text_Field7 'Würth: 9774010360'
+PRP Thread 'M3'
+PRP Tightening_Torque '0.5 Nm'
+TOP 0 6.496063 2.1653543 180 N 0 62 1
+#
+# CMP 5
+CMP 6 0.1968504 2.1653543 0 N MP2 M3,_height_1mm ;0=2,1=0.0394
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://katalog.we-online.de/em/datasheet/9774010360.pdf'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '9774010360'
+PRP Material 'Steel'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-55 to 150 degC'
+PRP Packaging 'Bulk'
+PRP Part_Number '9774010360'
+PRP Pricing_1 '1=2.54, 10=2.41, 50=2.28, 100=2.11, 1000=2.11, 10000=2.11 (USD)'
+PRP Published_Date 'November 2018'
+PRP Publisher 'Wurth Elektronik'
+PRP Solder_Cream_Thickness '150 um'
+PRP Stock '200'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '710-9774010360'
+PRP Surface 'Tin'
+PRP Text_Field1 '148883'
+PRP Text_Field7 'Würth: 9774010360'
+PRP Thread 'M3'
+PRP Tightening_Torque '0.5 Nm'
+TOP 0 0.1968504 2.1653543 180 N 0 61 1
+#
+# CMP 6
+CMP 6 0.1968504 0.1968504 0 N MP1 M3,_height_1mm ;0=2,1=0.0394
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://katalog.we-online.de/em/datasheet/9774010360.pdf'
+PRP Manufacturer 'Wurth Electronics'
+PRP Manufacturer_Part_Number '9774010360'
+PRP Material 'Steel'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-55 to 150 degC'
+PRP Packaging 'Bulk'
+PRP Part_Number '9774010360'
+PRP Pricing_1 '1=2.54, 10=2.41, 50=2.28, 100=2.11, 1000=2.11, 10000=2.11 (USD)'
+PRP Published_Date 'November 2018'
+PRP Publisher 'Wurth Elektronik'
+PRP Solder_Cream_Thickness '150 um'
+PRP Stock '200'
+PRP Supplier_1 'Mouser'
+PRP Supplier_Part_Number_1 '710-9774010360'
+PRP Surface 'Tin'
+PRP Text_Field1 '148883'
+PRP Text_Field7 'Würth: 9774010360'
+PRP Thread 'M3'
+PRP Tightening_Torque '0.5 Nm'
+TOP 0 0.1968504 0.1968504 180 N 0 60 1
+#
+# CMP 7
+CMP 8 0.6692914 0.1574803 0 N D8 GP1247AI ;0=2,1=0.6795
+TOP 0 0.6692914 0.1574803 0 N 39 18 1
+TOP 1 0.7480316 0.1574803 0 N 39 17 2
+TOP 2 0.8267718 0.1574804 0 N 39 16 3
+TOP 3 0.905512 0.1574804 0 N 39 15 4
+TOP 4 1.1417325 0.1574805 0 N 44 53 5
+TOP 5 1.2204724 0.1574802 0 N 37 20 6
+TOP 6 1.2992127 0.1574802 0 N 0 57 7
+TOP 7 1.3779529 0.1574803 0 N 0 56 8
+TOP 8 1.4566931 0.1574805 0 N 38 3 9
+TOP 9 1.5354336 0.1574803 0 N 46 5 10
+TOP 10 1.6141735 0.1574806 0 N 41 5 11
+TOP 11 1.6929135 0.1574803 0 N 47 5 12
+TOP 12 1.7716538 0.1574803 0 N 40 5 13
+TOP 13 1.8503941 0.1574804 0 N 37 19 14
+TOP 14 1.9291344 0.1574802 0 N 0 55 15
+TOP 15 2.0078746 0.1574803 0 N 0 54 16
+TOP 16 2.0866149 0.1574802 0 N 44 52 17
+TOP 17 2.1653547 0.1574803 0 N 0 53 18
+TOP 18 2.2440954 0.15748 0 N 44 51 19
+TOP 19 2.3228354 0.1574803 0 N 0 52 20
+TOP 20 2.4015755 0.1574802 0 N 34 3 21
+TOP 21 2.4803158 0.1574804 0 N 0 51 22
+TOP 22 2.5590559 0.1574803 0 N 0 50 23
+TOP 23 2.6377961 0.1574803 0 N 0 49 24
+TOP 24 2.7165363 0.1574806 0 N 0 48 25
+TOP 25 2.7952767 0.1574801 0 N 0 47 26
+TOP 26 2.8740169 0.1574803 0 N 0 46 27
+TOP 27 2.9527571 0.1574806 0 N 0 45 28
+TOP 28 3.0314969 0.1574802 0 N 0 44 29
+TOP 29 3.1102374 0.1574804 0 N 0 43 30
+TOP 30 3.1889775 0.1574804 0 N 0 42 31
+TOP 31 3.2677177 0.15748 0 N 0 41 32
+TOP 32 3.346458 0.1574802 0 N 0 40 33
+TOP 33 3.425198 0.1574798 0 N 0 39 34
+TOP 34 3.5039383 0.1574804 0 N 0 38 35
+TOP 35 3.5826784 0.1574805 0 N 0 37 36
+TOP 36 3.6614188 0.1574799 0 N 0 36 37
+TOP 37 3.7401589 0.1574803 0 N 0 35 38
+TOP 38 3.8188994 0.1574807 0 N 0 34 39
+TOP 39 3.8976392 0.1574804 0 N 0 33 40
+TOP 40 3.9763797 0.1574803 0 N 0 32 41
+TOP 41 4.0551199 0.1574803 0 N 0 31 42
+TOP 42 4.1338597 0.1574803 0 N 0 30 43
+TOP 43 4.2126002 0.1574804 0 N 0 29 44
+TOP 44 4.2913401 0.1574803 0 N 0 28 45
+TOP 45 4.3700805 0.1574802 0 N 0 27 46
+TOP 46 4.4488207 0.1574806 0 N 0 26 47
+TOP 47 4.527561 0.1574801 0 N 0 25 48
+TOP 48 4.6063011 0.1574803 0 N 0 24 49
+TOP 49 4.6850413 0.1574804 0 N 0 23 50
+TOP 50 4.7637815 0.1574803 0 N 0 22 51
+TOP 51 4.8425218 0.1574804 0 N 0 21 52
+TOP 52 4.9212617 0.1574804 0 N 0 20 53
+TOP 53 5.0000021 0.1574803 0 N 0 19 54
+TOP 54 5.0787425 0.1574803 0 N 0 18 55
+TOP 55 5.1574824 0.1574802 0 N 0 17 56
+TOP 56 5.2362229 0.1574804 0 N 0 16 57
+TOP 57 5.314963 0.1574804 0 N 37 18 58
+TOP 58 5.393703 0.1574802 0 N 33 3 59
+TOP 59 5.4724434 0.1574803 0 N 44 50 60
+TOP 60 5.5511836 0.1574803 0 N 44 49 61
+TOP 61 5.7874016 0.1574802 0 N 32 7 62
+TOP 62 5.8661416 0.1574802 0 N 32 4 63
+TOP 63 5.9448818 0.1574805 0 N 32 3 64
+TOP 64 6.0236222 0.1574804 0 N 32 6 65
+#

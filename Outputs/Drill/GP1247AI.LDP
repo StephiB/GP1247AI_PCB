@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\sgo\3D Objects\GP1247AI_PCB\GP1247AI.PCBDOC
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=gp1247ai-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=gp1247ai-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

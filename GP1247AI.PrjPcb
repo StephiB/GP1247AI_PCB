@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=1.02
 
 [Preferences]
 PrefsVaultGUID=
@@ -175,7 +176,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -185,15 +186,38 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NRMBODVT
 
+[Document9]
+DocumentPath=DAC_V1.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=2A3AB7AD-0F26-4885-9D22-160A05691027
-Description=1.00
+Description=1.02
 AllowFabrication=0
-ParameterCount=0
-VariationCount=2
-Variation1=Designator=U7|UniqueId=\FWVDIPMS|Kind=1|AlternatePart= 
-Variation2=Designator=C22|UniqueId=\UPRKDUCA|Kind=1|AlternatePart= 
+ParameterCount=2
+VariationCount=0
 ParamVariationCount=0
+
+[Parameter2_1]
+Name=Revision
+Value=1.02
+
+[Parameter2_2]
+Name=Title
+Value=GP1247AI PCB
 
 [Parameter1]
 Name=Beschreibung

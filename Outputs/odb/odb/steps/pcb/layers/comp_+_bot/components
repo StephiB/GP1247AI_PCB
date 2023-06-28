@@ -1,0 +1,1563 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 3 3.6220472 0.9271654 180 N MP5 3670570 ;0=1,1=0.2362
+PRP Base_Material 'Steel'
+PRP Category 'EMC Shielding'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/3670570?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/3670570?ad'
+PRP Height '6mm'
+PRP Length '57mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '3670570'
+PRP Match_Code 'WE-SHC'
+PRP Mount 'Surface Mount'
+PRP Operating_Temperature_Max '125°C'
+PRP Operating_Temperature_Min '-40°C'
+PRP Packaging 'Tray'
+PRP Plating 'Tin Plated'
+PRP Type 'SMT Frame Seamless'
+PRP Width '31mm'
+TOP 0 4.5807086 1.531496 180 N 44 16 1
+TOP 1 2.6633858 0.3228348 180 N 44 17 1
+TOP 2 2.5059056 0.9271653 90 N 44 18 1
+TOP 3 4.7381888 0.9271655 90 N 44 19 1
+TOP 4 3.6220472 1.5314961 180 N 44 20 1
+TOP 5 3.6220472 0.3228347 180 N 44 21 1
+#
+# CMP 1
+CMP 0 1.614173 0.3149606 90 N R14 100R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '67270'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+TOP 0 1.614173 0.3149606 90 N 2 4 1
+TOP 1 1.6141729 0.2539608 90 N 41 4 2
+#
+# CMP 2
+CMP 0 1.6929132 0.2539608 270 N R13 100R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '67270'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+TOP 0 1.6929132 0.2539608 270 N 47 4 1
+TOP 1 1.6929133 0.3149606 270 N 3 4 2
+#
+# CMP 3
+CMP 9 4.2421191 0.8366085 270 N U3 LT8361EMSE#PBF ;0=1,1=0.0433
+PRP Datasheet_Link 'https://www.mouser.fi/datasheet/2/609/lt8361-1568840.pdf'
+PRP Geometry.Height '1.1mm'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'LT8361EMSE#PBF'
+PRP Mouser_Part_Number '584-LT8361EMSE#PBF'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8361EMSEPBF?qs=y6ZabgHbY%252ByVuSTCW6h07w%3D%3D'
+TOP 0 4.3110167 0.7519628 270 N 30 9 1
+TOP 1 4.2716467 0.7519628 270 N 30 8 3
+TOP 2 4.2322766 0.7519628 270 N 23 2 5
+TOP 3 4.2125915 0.7519628 270 N 0 10 6
+TOP 4 4.1929065 0.7519628 270 N 39 14 7
+TOP 5 4.1732215 0.7519628 270 N 12 2 8
+TOP 6 4.1732215 0.9212542 270 N 22 10 9
+TOP 7 4.1929065 0.9212542 270 N 9 2 10
+TOP 8 4.2125915 0.9212542 270 N 19 2 11
+TOP 9 4.2322766 0.9212542 270 N 44 27 12
+TOP 10 4.2716467 0.9212542 270 N 28 2 14
+TOP 11 4.3110167 0.9212542 270 N 28 1 16
+TOP 12 4.2421159 0.8366053 270 N 44 26 17
+#
+# CMP 4
+CMP 13 5.1476378 0.3102771 270 N U4 LM3480IM3-3.3/NOPB ;0=1,1=0.0433
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'http://www.ti.com/lit/ds/symlink/lm3480.pdf'
+PRP ComponentLink1URL 'http://www.ti.com/lit/ds/symlink/lm3480.pdf'
+PRP Current_-_Limit_(Min) '-'
+PRP Current_-_Output '100mA'
+PRP Manufacturer 'Texas Instruments'
+PRP Manufacturer_Part_Number 'LM3480IM3-3.3/NOPB'
+PRP Mounting_Type 'Surface Mount'
+PRP Number_of_Regulators '1'
+PRP Operating_Temperature '-40°C ~ 125°C'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Part_Status 'Active'
+PRP Pricing_1 '1000=0.3183 (EUR)'
+PRP Regulator_Topology 'Positive Fixed'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '23000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SOT-23-3'
+PRP Supplier_Part_Number_1 'LM3480IM3-3.3/NOPBTR-ND'
+PRP Text_Field1 '131797'
+PRP Text_Field7 'TI: LM3480IM3-3.3/NOPB'
+PRP Voltage_-_Dropout_(Typical) '0.9V @ 100mA'
+PRP Voltage_-_Input 'Up to 30V'
+PRP Voltage_-_Output '3.3V'
+TOP 0 5.1850394 0.2704883 180 N 37 16 1
+TOP 1 5.1102362 0.2704883 180 N 39 12 2
+TOP 2 5.1476378 0.3504883 180 N 44 25 3
+#
+# CMP 5
+CMP 0 3.4448817 1.0925201 90 N R22 20K0/0603 ;0=1,1=0.0177
+PRP Text_Field1 '82523'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '20K0'
+PRP Text_Field5 '0.063W'
+PRP Text_Field6 '1%, TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK100'
+PRP Text_Field8 '4'
+TOP 0 3.4448817 1.0925201 90 N 44 35 1
+TOP 1 3.4448816 1.0315203 90 N 6 3 2
+#
+# CMP 6
+CMP 0 3.464567 0.6147916 270 N R21 100K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '70755'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '100K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 3.464567 0.6147916 270 N 16 2 1
+TOP 1 3.4645671 0.6757914 270 N 7 3 2
+#
+# CMP 7
+CMP 0 3.5039371 1.09252 90 N C28 2.2NF/50V/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink1URL 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1455899.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1455899.zip'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C222K5RAC   TU'
+PRP Pricing_1 '1=0,009, 10=0,009, 100=0,008, 500=0,006, 1000=0,005, 2500=0,005 (EUR)'
+PRP RoHS 'YES'
+PRP Stock_1 '3711'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1167798'
+PRP Text_Field1 '102033'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+TOP 0 3.5039371 1.09252 90 N 44 59 1
+TOP 1 3.503937 1.0315202 90 N 15 3 2
+#
+# CMP 8
+CMP 0 3.4645671 0.4921261 270 N C27 2.2NF/50V/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink1URL 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1455899.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1455899.zip'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C222K5RAC   TU'
+PRP Pricing_1 '1=0,009, 10=0,009, 100=0,008, 500=0,006, 1000=0,005, 2500=0,005 (EUR)'
+PRP RoHS 'YES'
+PRP Stock_1 '3711'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1167798'
+PRP Text_Field1 '102033'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+TOP 0 3.4645671 0.4921261 270 N 44 60 1
+TOP 1 3.4645672 0.5531259 270 N 16 3 2
+#
+# CMP 9
+CMP 0 3.5236221 0.6147917 270 N C26 1_F/50V/X5R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '163284'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '1µF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 'X5R'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+PRP Text_Field8 '4'
+TOP 0 3.5236221 0.6147917 270 N 44 61 1
+TOP 1 3.5236222 0.6757915 270 N 17 3 2
+#
+# CMP 10
+CMP 0 3.6693148 0.6102364 180 N C25 4.7pF/100V/0603 ;0=1,1=0.0177
+PRP Text_Field1 '87196'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '4.7nF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 '10%'
+PRP Text_Field7 '0603,50V, ±10%, X7R'
+PRP Text_Field8 '4'
+TOP 0 3.6693148 0.6102364 0 N 18 13 1
+TOP 1 3.7303146 0.6102363 0 N 35 7 2
+#
+# CMP 11
+CMP 1 3.6123148 0.5314961 180 N C24 4.7_F/100V/X7S ;0=1,1=0.0217
+PRP ComponentLink1Description 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CC72A475KE11-01A.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CC72A475KE11-01A.pdf?src-supplier=Digi-Key'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_Part_Number 'GRM31CC72A475KE11L'
+PRP Pricing_1 '2000=0.29325 (USD)'
+PRP RoHS_Compliant 'Yes'
+PRP Stock '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-18620-2-ND'
+PRP Text_Field1 '160347'
+PRP Text_Field7 'Murata: GRM31CC72A475KE11L'
+TOP 0 3.6123148 0.5314961 0 N 44 62 1
+TOP 1 3.7303148 0.531496 0 N 35 8 2
+#
+# CMP 12
+CMP 0 3.6023623 0.6757915 90 N C23 4.7_F/35V/0603 ;0=1,1=0.0177
+PRP Capacitance '4.7uF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X5R1V475K080AC'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistor_Type 'Ceramic'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'C'
+PRP Stock '37688'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-9064-1-ND'
+PRP Termination 'SMD/SMT'
+PRP Text_Field1 '160313'
+PRP Text_Field7 'TDK: C1608X5R1V475K080AC'
+PRP Thickness '0.039inch'
+PRP Tolerance '10%'
+PRP Voltage_Rating '35V'
+PRP Voltage_Rating_(DC) '35V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.031inch'
+TOP 0 3.6023623 0.6757915 90 N 30 18 1
+TOP 1 3.6023622 0.6147917 90 N 44 63 2
+#
+# CMP 13
+CMP 0 4.2125981 1.0925203 90 N C22 2.2NF/50V/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink1URL 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1455899.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1455899.zip'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C222K5RAC   TU'
+PRP Pricing_1 '1=0,009, 10=0,009, 100=0,008, 500=0,006, 1000=0,005, 2500=0,005 (EUR)'
+PRP RoHS 'YES'
+PRP Stock_1 '3711'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1167798'
+PRP Text_Field1 '102033'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+TOP 0 4.2125981 1.0925203 90 N 44 64 1
+TOP 1 4.212598 1.0315205 90 N 19 3 2
+#
+# CMP 14
+CMP 5 6.1023622 0.6299213 0 N L4 416Ohm,_5A ;0=1,1=0.1811
+PRP ComponentLink1Description 'Manufacturer'
+PRP ComponentLink1URL 'http://www.we-online.de'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.we-online.com/catalog/datasheet/7427511.pdf'
+PRP DC_Resistance_max. '11mOhm'
+PRP Height '4.6mm'
+PRP Impedance_@25MHz '272Ohm'
+PRP Impedance_@100MHz '416Ohm'
+PRP Impedance_max. '440Ohm'
+PRP Impedance_max._Test_Condition '100MHz'
+PRP Length '8mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '7427511'
+PRP Mounting_Technology 'SMT'
+PRP Operating_Temperature '-40 to +125degC'
+PRP Packaging 'Tape and Reel'
+PRP Published_Date 'April 2020'
+PRP Rated_Current '5A'
+PRP Text_Field1 '156774'
+PRP Text_Field7 'Würth: 7427511'
+PRP Width '5mm'
+TOP 0 6.2007874 0.6299213 180 N 29 3 1
+TOP 1 6.003937 0.6299213 180 N 30 14 2
+#
+# CMP 15
+CMP 7 6.25 0.9547244 0 N C21 100_F/50V/ERS ;0=1,1=0.4016
+PRP Art._Note_1 ''
+PRP Art._Note_2 ''
+PRP Available ''
+PRP Deliv._Min. ''
+PRP Deliv._Time ''
+PRP Distributor ''
+PRP Locked ''
+PRP Prize_(Euro) ''
+PRP Reserved ''
+PRP Text_Field1 '80894'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 'Größe ERS8x8'
+PRP Text_Field4 '100µF/ERS Low ESR'
+PRP Text_Field5 '50V'
+PRP Text_Field6 '20%'
+PRP Text_Field7 'Al-Elektrolyt'
+TOP 0 6.25 0.9547244 270 N 44 65 1
+TOP 1 5.9704724 0.9547244 270 N 30 19 2
+#
+# CMP 16
+CMP 2 6.6535433 0.6692913 0 N XS1 STIFTLEISTE_1X2_2MM_G_SMD ;0=1,1=0.3386
+PRP Category 'Connectors, Interconnects'
+PRP Color 'Natural'
+PRP ComponentLink1Description 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf'
+PRP ComponentLink1URL 'http://www.jst-mfg.com/product/pdf/eng/ePH.pdf'
+PRP Connector_Type 'Header, Shrouded'
+PRP Contact_Finish 'Tin'
+PRP Contact_Type 'Male Pin'
+PRP Features 'Solder Retention'
+PRP Manufacturer 'JST Sales America Inc'
+PRP Manufacturer_Part_Number 'B2B-PH-SM4-TB(LF)(SN)'
+PRP Mounting_Type 'Surface Mount'
+PRP Number_of_Positions '2'
+PRP Number_of_Positions_Loaded 'All'
+PRP Number_of_Rows '1'
+PRP Packaging 'Cut Tape (CT)'
+PRP Pitch '0.079_ (2.00mm)'
+PRP Pricing_1 '1=0.41, 10=0.38, 50=0.3038, 100=0.291, 250=0.26576, 500=0.25308 (EUR)'
+PRP RoHS 'RoHS Compliant'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '455-1734-1-ND'
+PRP Termination 'Solder'
+PRP Text_Field1 '121631'
+PRP Text_Field7 'JST: B2B-PH-SM4-TB(LF)(SN)'
+TOP 0 6.5551181 0.535433 180 N 0 9 0
+TOP 1 6.5551181 0.8031496 180 N 0 8 0
+TOP 2 6.4665354 0.7086614 180 N 44 22 1
+TOP 3 6.4665354 0.6299212 180 N 29 2 2
+#
+# CMP 17
+CMP 0 5.7086613 0.2677164 270 N R20 100K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '70755'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '100K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 5.7086613 0.2677164 270 N 31 4 1
+TOP 1 5.7086614 0.3287162 270 N 44 36 2
+#
+# CMP 18
+CMP 0 5.6496063 0.2677164 270 N R19 1K00/0603 ;0=1,1=0.0177
+PRP Text_Field1 '67271'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+TOP 0 5.6496063 0.2677164 270 N 31 5 1
+TOP 1 5.6496064 0.3287162 270 N 45 4 2
+#
+# CMP 19
+CMP 0 5.3937008 0.3149606 90 N R18 10R0/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/1718110.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/1718110.pdf'
+PRP Manufacturer 'VISHAY'
+PRP Manufacturer_Part_Number 'MCT 0603-50 1% P5 10R0'
+PRP Power_Rating '100'
+PRP Pricing_1 '50=0,063, 250=0,048, 500=0,042, 1000=0,038, 5000=0,035 (USD)'
+PRP Product_Range 'VISHAY - MCT Series'
+PRP Resistance '10'
+PRP Resistance_Tolerance '± 1%'
+PRP Resistor_Case_Style '0603 [1608 Metric]'
+PRP Resistor_Element_Material 'Thin Film'
+PRP RoHS 'YESX'
+PRP Stock_1 '4700'
+PRP Supplier_1 'Newark'
+PRP Supplier_Part_Number_1 '06X6013'
+PRP Text_Field1 '70916'
+PRP Text_Field7 '0603, 0,063W, 1,0 %, TK200'
+TOP 0 5.3937008 0.3149606 90 N 35 4 1
+TOP 1 5.3937007 0.2539608 90 N 33 2 2
+#
+# CMP 20
+CMP 0 2.4015748 0.3149606 90 N R17 10R0/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/1718110.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/1718110.pdf'
+PRP Manufacturer 'VISHAY'
+PRP Manufacturer_Part_Number 'MCT 0603-50 1% P5 10R0'
+PRP Power_Rating '100'
+PRP Pricing_1 '50=0,063, 250=0,048, 500=0,042, 1000=0,038, 5000=0,035 (USD)'
+PRP Product_Range 'VISHAY - MCT Series'
+PRP Resistance '10'
+PRP Resistance_Tolerance '± 1%'
+PRP Resistor_Case_Style '0603 [1608 Metric]'
+PRP Resistor_Element_Material 'Thin Film'
+PRP RoHS 'YESX'
+PRP Stock_1 '4700'
+PRP Supplier_1 'Newark'
+PRP Supplier_Part_Number_1 '06X6013'
+PRP Text_Field1 '70916'
+PRP Text_Field7 '0603, 0,063W, 1,0 %, TK200'
+TOP 0 2.4015748 0.3149606 90 N 36 8 1
+TOP 1 2.4015747 0.2539608 90 N 34 2 2
+#
+# CMP 21
+CMP 0 1.5354332 0.253961 270 N R15 100R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '67270'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+TOP 0 1.5354332 0.253961 270 N 46 4 1
+TOP 1 1.5354333 0.3149608 270 N 1 5 2
+#
+# CMP 22
+CMP 0 1.7716538 0.3149606 90 N R12 100R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '67270'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+TOP 0 1.7716538 0.3149606 90 N 4 4 1
+TOP 1 1.7716537 0.2539608 90 N 40 4 2
+#
+# CMP 23
+CMP 13 5.8267718 0.305118 180 N Q1 SI2336DS ;0=1,1=0.0433
+PRP Case/Package 'SOT-23'
+PRP ComponentLink1Description 'http://www.vishay.com/docs/71978/si2336ds.pdf?src-supplier=Avnet'
+PRP ComponentLink1URL 'http://www.vishay.com/docs/71978/si2336ds.pdf?src-supplier=Avnet'
+PRP ComponentLink2Description 'http://www.mouser.com/ds/2/427/si2336ds-260499.pdf?src-supplier=Mouser'
+PRP ComponentLink2URL 'http://www.mouser.com/ds/2/427/si2336ds-260499.pdf?src-supplier=Mouser'
+PRP ComponentLink3Description 'http://www.farnell.com/datasheets/1915678.pdf?src-supplier=Element14'
+PRP ComponentLink3URL 'http://www.farnell.com/datasheets/1915678.pdf?src-supplier=Element14'
+PRP ComponentLink4Description 'http://www.vishay.com/docs/71978/si2336ds.pdf?src-supplier=Digi-Key'
+PRP ComponentLink4URL 'http://www.vishay.com/docs/71978/si2336ds.pdf?src-supplier=Digi-Key'
+PRP ComponentLink5Description 'http://www.farnell.com/datasheets/2050381.pdf?src-supplier=Element14'
+PRP ComponentLink5URL 'http://www.farnell.com/datasheets/2050381.pdf?src-supplier=Element14'
+PRP Continuous_Drain_Current_(ID) '5.2A'
+PRP Drain_to_Source_Resistance '42mR'
+PRP Drain_to_Source_Voltage_(Vdss) '30V'
+PRP Element_Configuration 'Single'
+PRP Fall_Time '10ns'
+PRP Gate_to_Source_Voltage_(Vgs) '8V'
+PRP Input_Capacitance '560pF'
+PRP Lead_Free 'Lead Free'
+PRP Manufacturer 'Vishay Siliconix'
+PRP Manufacturer_Part_Number 'SI2336DS-T1-GE3'
+PRP Max_Operating_Temperature '150°C'
+PRP Max_Power_Dissipation '1.8W'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Nominal_Vgs '400mV'
+PRP Number_of_Channels '1'
+PRP Number_of_Elements '1'
+PRP Number_of_Pins '3'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Power_Dissipation '1.25W'
+PRP Pricing_1 '1=0.48, 10=0.413, 25=0.3852, 100=0.286, 250=0.27172, 500=0.2233, 1000=0.1815 (USD)'
+PRP Rds_On_Max '42mR'
+PRP REACH_SVHC 'No SVHC'
+PRP Rise_Time '10ns'
+PRP Stock '23876'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'SI2336DS-T1-GE3DKR-ND'
+PRP Text_Field1 '154123'
+PRP Text_Field7 'Vishay: SI2336DS-T1-GE3'
+PRP Threshold_Voltage '400mV'
+PRP Turn-Off_Delay_Time '20ns'
+PRP Turn-On_Delay_Time '6ns'
+PRP Weight '0.050717oz'
+TOP 0 5.786983 0.2677164 270 N 31 6 1
+TOP 1 5.786983 0.3425196 270 N 44 42 2
+TOP 2 5.866983 0.305118 270 N 32 5 3
+#
+# CMP 24
+CMP 12 1.4094488 0.4279366 180 N D7 BZX84-C3V3 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP ComponentLink1URL 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP Current_-_Reverse_Leakage_@_Vr '5µA @ 1V'
+PRP Manufacturer 'Nexperia USA Inc.'
+PRP Manufacturer_Part_Number 'BZX84-C3V3,215'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-65°C ~ 150°C'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Part_Status 'Active'
+PRP Power_-_Max '250mW'
+PRP Pricing_1 '3000=0.02273, 6000=0.0205, 15000=0.01782, 30000=0.01604, 75000=0.01426, 150000=0.01185 (EUR)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'TO-236AB (SOT23)'
+PRP Supplier_Part_Number_1 '1727-2937-2-ND'
+PRP Text_Field1 '139997'
+PRP Text_Field7 'Nexperia: BZX84-C3V3,215'
+PRP Tolerance '±5%'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '900mV @ 10mA'
+TOP 0 1.4094488 0.4279366 270 N 44 54 1
+TOP 1 1.4094488 0.5039366 270 N 0 6 2
+TOP 2 1.4894488 0.4659366 270 N 46 6 3
+#
+# CMP 25
+CMP 12 1.6299213 0.5039367 0 N D6 BZX84-C3V3 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP ComponentLink1URL 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP Current_-_Reverse_Leakage_@_Vr '5µA @ 1V'
+PRP Manufacturer 'Nexperia USA Inc.'
+PRP Manufacturer_Part_Number 'BZX84-C3V3,215'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-65°C ~ 150°C'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Part_Status 'Active'
+PRP Power_-_Max '250mW'
+PRP Pricing_1 '3000=0.02273, 6000=0.0205, 15000=0.01782, 30000=0.01604, 75000=0.01426, 150000=0.01185 (EUR)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'TO-236AB (SOT23)'
+PRP Supplier_Part_Number_1 '1727-2937-2-ND'
+PRP Text_Field1 '139997'
+PRP Text_Field7 'Nexperia: BZX84-C3V3,215'
+PRP Tolerance '±5%'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '900mV @ 10mA'
+TOP 0 1.6299213 0.5039367 90 N 44 55 1
+TOP 1 1.6299213 0.4279367 90 N 0 5 2
+TOP 2 1.5499213 0.4659367 90 N 41 6 3
+#
+# CMP 26
+CMP 12 1.6771654 0.4279366 180 N D5 BZX84-C3V3 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP ComponentLink1URL 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP Current_-_Reverse_Leakage_@_Vr '5µA @ 1V'
+PRP Manufacturer 'Nexperia USA Inc.'
+PRP Manufacturer_Part_Number 'BZX84-C3V3,215'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-65°C ~ 150°C'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Part_Status 'Active'
+PRP Power_-_Max '250mW'
+PRP Pricing_1 '3000=0.02273, 6000=0.0205, 15000=0.01782, 30000=0.01604, 75000=0.01426, 150000=0.01185 (EUR)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'TO-236AB (SOT23)'
+PRP Supplier_Part_Number_1 '1727-2937-2-ND'
+PRP Text_Field1 '139997'
+PRP Text_Field7 'Nexperia: BZX84-C3V3,215'
+PRP Tolerance '±5%'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '900mV @ 10mA'
+TOP 0 1.6771654 0.4279366 270 N 44 56 1
+TOP 1 1.6771654 0.5039366 270 N 0 4 2
+TOP 2 1.7571654 0.4659366 270 N 47 6 3
+#
+# CMP 27
+CMP 12 1.8976378 0.503937 0 N D4 BZX84-C3V3 ;0=1,1=0.0433
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP ComponentLink1URL 'http://assets.nexperia.com/documents/data-sheet/BZX84_SER.pdf'
+PRP Current_-_Reverse_Leakage_@_Vr '5µA @ 1V'
+PRP Manufacturer 'Nexperia USA Inc.'
+PRP Manufacturer_Part_Number 'BZX84-C3V3,215'
+PRP Mounting_Type 'Surface Mount'
+PRP Operating_Temperature '-65°C ~ 150°C'
+PRP Package_/_Case 'TO-236-3, SC-59, SOT-23-3'
+PRP Packaging 'Tape & Reel (TR)'
+PRP Part_Status 'Active'
+PRP Power_-_Max '250mW'
+PRP Pricing_1 '3000=0.02273, 6000=0.0205, 15000=0.01782, 30000=0.01604, 75000=0.01426, 150000=0.01185 (EUR)'
+PRP RoHS 'RoHS Compliant'
+PRP Stock_1 '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'TO-236AB (SOT23)'
+PRP Supplier_Part_Number_1 '1727-2937-2-ND'
+PRP Text_Field1 '139997'
+PRP Text_Field7 'Nexperia: BZX84-C3V3,215'
+PRP Tolerance '±5%'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '900mV @ 10mA'
+TOP 0 1.8976378 0.503937 90 N 44 57 1
+TOP 1 1.8976378 0.427937 90 N 0 3 2
+TOP 2 1.8176378 0.465937 90 N 40 6 3
+#
+# CMP 28
+CMP 0 5.3937008 0.4330709 90 N C20 100NF/100V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 5.3937008 0.4330709 90 N 44 66 1
+TOP 1 5.3937007 0.3720711 90 N 35 3 2
+#
+# CMP 29
+CMP 0 2.4015748 0.4330709 90 N C19 100NF/100V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 2.4015748 0.4330709 90 N 44 67 1
+TOP 1 2.4015747 0.3720711 90 N 36 7 2
+#
+# CMP 30
+CMP 0 1.8503934 0.3149606 90 N C18 100NF/50V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 1.8503934 0.3149606 90 N 44 68 1
+TOP 1 1.8503933 0.2539608 90 N 37 22 2
+#
+# CMP 31
+CMP 0 5.3149606 0.3149606 90 N C17 100NF/50V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 5.3149606 0.3149606 90 N 44 69 1
+TOP 1 5.3149605 0.2539608 90 N 37 23 2
+#
+# CMP 32
+CMP 0 1.2204724 0.3149606 90 N C16 100NF/50V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 1.2204724 0.3149606 90 N 44 70 1
+TOP 1 1.2204723 0.2539608 90 N 37 24 2
+#
+# CMP 33
+CMP 0 2.7559056 0.6147916 270 N R5 100K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '70755'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '100K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 2.7559056 0.6147916 270 N 25 2 1
+TOP 1 2.7559057 0.6757914 270 N 11 3 2
+#
+# CMP 34
+CMP 0 4.1535427 1.0925204 90 N R7 20K0/0603 ;0=1,1=0.0177
+PRP Text_Field1 '82523'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '20K0'
+PRP Text_Field5 '0.063W'
+PRP Text_Field6 '1%, TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK100'
+PRP Text_Field8 '4'
+TOP 0 4.1535427 1.0925204 90 N 44 39 1
+TOP 1 4.1535426 1.0315206 90 N 9 3 2
+#
+# CMP 35
+CMP 0 4.3602591 0.5354339 180 N R1 1M00/0603 ;0=1,1=0.0177
+PRP Text_Field1 '69900'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '1M00'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 4.3602591 0.5354339 0 N 22 12 1
+TOP 1 4.4212589 0.5354338 0 N 39 10 2
+#
+# CMP 36
+CMP 0 1.4566929 0.3149606 90 N R16 100K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '70755'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '100K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 1.4566929 0.3149606 90 N 37 17 1
+TOP 1 1.4566928 0.2539608 90 N 38 2 2
+#
+# CMP 37
+CMP 0 4.114173 0.8602607 270 N R10 4K30/0603 ;0=1,1=0.0177
+PRP Text_Field1 '69416'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+TOP 0 4.114173 0.8602607 270 N 8 2 1
+TOP 1 4.1141731 0.9212605 270 N 22 13 2
+#
+# CMP 38
+CMP 0 2.6968506 0.8602604 270 N R2 33K0/0603 ;0=1,1=0.0177
+PRP Text_Field1 '86418'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '33K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 'TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 2.6968506 0.8602604 270 N 44 41 1
+TOP 1 2.6968507 0.9212602 270 N 21 12 2
+#
+# CMP 39
+CMP 0 4.0590544 0.9212604 90 N R9 470K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '114671'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '470K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 4.0590544 0.9212604 90 N 44 38 1
+TOP 1 4.0590543 0.8602606 90 N 8 3 2
+#
+# CMP 40
+CMP 0 4.173228 0.6147919 270 N R3 100K/0603 ;0=1,1=0.0177
+PRP Text_Field1 '70755'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '100K'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 4.173228 0.6147919 270 N 20 2 1
+TOP 1 4.1732281 0.6757917 270 N 12 3 2
+#
+# CMP 41
+CMP 0 3.405512 0.8602604 270 N R11 21K5/0603 ;0=1,1=0.0177
+PRP Text_Field1 '73115'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '22K0'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK50'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 3.405512 0.8602604 270 N 44 37 1
+TOP 1 3.4055121 0.9212602 270 N 18 11 2
+#
+# CMP 42
+CMP 0 3.6693147 0.6692915 180 N R8 1M00/0603 ;0=1,1=0.0177
+PRP Text_Field1 '69900'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '1M00'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 3.6693147 0.6692915 0 N 18 12 1
+TOP 1 3.7303145 0.6692914 0 N 35 5 2
+#
+# CMP 43
+CMP 0 2.7362203 1.0925201 90 N R6 20K0/0603 ;0=1,1=0.0177
+PRP Text_Field1 '82523'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '20K0'
+PRP Text_Field5 '0.063W'
+PRP Text_Field6 '1%, TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK100'
+PRP Text_Field8 '4'
+TOP 0 2.7362203 1.0925201 90 N 44 40 1
+TOP 1 2.7362202 1.0315203 90 N 10 3 2
+#
+# CMP 44
+CMP 0 2.9606533 0.6692915 180 N R4 1M00/0603 ;0=1,1=0.0177
+PRP Text_Field1 '69900'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '1M00'
+PRP Text_Field5 '0.1W'
+PRP Text_Field6 '1%, TK100'
+PRP Text_Field7 '0603, 0,1 W, 1,0 %, TK50'
+PRP Text_Field8 '4'
+TOP 0 2.9606533 0.6692915 0 N 21 11 1
+TOP 1 3.0216531 0.6692914 0 N 36 6 2
+#
+# CMP 45
+CMP 14 4.4389757 1.1515754 180 N L2 6.8_H,_1.45A ;0=1,1=0.1496
+PRP Case/Size_Code '8038'
+PRP Category 'Coupled Power Inductors'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/74489440068?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/74489440068?ad'
+PRP DC_Resistance_1 '88mO'
+PRP DC_Resistance_2 '88mO'
+PRP DC_Resistance_Max_1 '100mO'
+PRP DC_Resistance_Max_2 '100mO'
+PRP Height '3.8mm'
+PRP Inductance_1 '6.8µH'
+PRP Inductance_2 '6.8µH'
+PRP Length '8mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '74489440068'
+PRP Match_Code 'WE-TDC'
+PRP Mount 'Surface Mount'
+PRP Operating_Temperature_Max '125°C'
+PRP Operating_Temperature_Min '-40°C'
+PRP Packaging 'Tape and Reel'
+PRP Rated_Current_1 '1.45A'
+PRP Rated_Current_2 '1.45A'
+PRP Rated_Voltage '80V'
+PRP Saturation_Current '3.2A'
+PRP Self_Resonant_Frequency '25MHz'
+PRP Width '8mm'
+TOP 0 4.4389758 1.001969 0 N 44 43 1
+TOP 1 4.2893695 1.1515753 0 N 28 3 2
+TOP 2 4.4389758 1.3011816 0 N 30 16 3
+TOP 3 4.5885821 1.1515753 0 N 27 1 4
+#
+# CMP 46
+CMP 15 3.0216535 1.1515749 0 N L1 6.8_H,_2.4A ;0=1,1=0.0709
+PRP Case/Size_Code '8020'
+PRP Category 'Shielded Power Inductors'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/7440700068?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/7440700068?ad'
+PRP DC_Resistance '56mO'
+PRP DC_Resistance_Max '68mO'
+PRP Height '1.8mm'
+PRP Inductance '6.8µH'
+PRP Length '8mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '7440700068'
+PRP Match_Code 'WE-TPC'
+PRP Mount 'Surface Mount'
+PRP Operating_Temperature_Max '125°C'
+PRP Operating_Temperature_Min '-40°C'
+PRP Packaging 'Tape and Reel'
+PRP Rated_Current '2.4A'
+PRP Saturation_Current '1.8A'
+PRP Self_Resonant_Frequency '55MHz'
+PRP Width '8mm'
+TOP 0 3.0216534 1.3011812 180 N 30 17 1
+TOP 1 3.0216534 1.0019686 180 N 13 3 2
+TOP 2 3.1712597 1.1515749 270 N 0 14 MP1
+TOP 3 2.8720471 1.1515749 270 N 0 15 MP2
+#
+# CMP 47
+CMP 15 3.7303149 1.1515752 0 N L3 6.8_H,_2.4A ;0=1,1=0.0709
+PRP Case/Size_Code '8020'
+PRP Category 'Shielded Power Inductors'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/7440700068?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/7440700068?ad'
+PRP DC_Resistance '56mO'
+PRP DC_Resistance_Max '68mO'
+PRP Height '1.8mm'
+PRP Inductance '6.8µH'
+PRP Length '8mm'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '7440700068'
+PRP Match_Code 'WE-TPC'
+PRP Mount 'Surface Mount'
+PRP Operating_Temperature_Max '125°C'
+PRP Operating_Temperature_Min '-40°C'
+PRP Packaging 'Tape and Reel'
+PRP Rated_Current '2.4A'
+PRP Saturation_Current '1.8A'
+PRP Self_Resonant_Frequency '55MHz'
+PRP Width '8mm'
+TOP 0 3.7303148 1.3011815 180 N 30 15 1
+TOP 1 3.7303148 1.0019689 180 N 14 3 2
+TOP 2 3.8799211 1.1515752 270 N 0 12 MP1
+TOP 3 3.5807085 1.1515752 270 N 0 13 MP2
+#
+# CMP 48
+CMP 10 3.7303149 0.8366144 90 N D1 STPS1H100A ;0=1,1=0.0965
+PRP Capacitance_@_Vr__F '-'
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001304.pdf'
+PRP ComponentLink1URL 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001304.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '4µA @ 100V'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'STPS1H100A'
+PRP Mounting_Type 'Surface Mount'
+PRP Package_/_Case 'DO-214AC, SMA'
+PRP Packaging 'Digi-Reel®'
+PRP Pricing_1 '1=0.41, 10=0.345, 25=0.3024, 100=0.259, 250=0.2246, 500=0.19026, 1000=0.14667, 2500=0.1341 (EUR)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP RoHS 'RoHS Compliant'
+PRP Speed 'Fast Recovery =< 500ns, > 200mA (Io)'
+PRP Stock_1 '111470'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SMA'
+PRP Supplier_Part_Number_1 '497-3209-6-ND'
+PRP Text_Field1 '111565'
+PRP Text_Field7 'STMicroelectronics: STPS1H100A'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '100V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '770mV @ 1A'
+TOP 0 3.730315 0.9159453 90 N 14 4 1
+TOP 1 3.7303148 0.7572835 90 N 35 6 2
+#
+# CMP 49
+CMP 10 3.0216539 0.8366142 90 N D2 STPS1H100A ;0=1,1=0.0965
+PRP Capacitance_@_Vr__F '-'
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001304.pdf'
+PRP ComponentLink1URL 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001304.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '4µA @ 100V'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'STPS1H100A'
+PRP Mounting_Type 'Surface Mount'
+PRP Package_/_Case 'DO-214AC, SMA'
+PRP Packaging 'Digi-Reel®'
+PRP Pricing_1 '1=0.41, 10=0.345, 25=0.3024, 100=0.259, 250=0.2246, 500=0.19026, 1000=0.14667, 2500=0.1341 (EUR)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP RoHS 'RoHS Compliant'
+PRP Speed 'Fast Recovery =< 500ns, > 200mA (Io)'
+PRP Stock_1 '111470'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SMA'
+PRP Supplier_Part_Number_1 '497-3209-6-ND'
+PRP Text_Field1 '111565'
+PRP Text_Field7 'STMicroelectronics: STPS1H100A'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '100V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '770mV @ 1A'
+TOP 0 3.021654 0.9159451 90 N 13 4 1
+TOP 1 3.0216538 0.7572833 90 N 36 4 2
+#
+# CMP 50
+CMP 10 4.5092512 0.7677171 0 N D3 STPS1H100A ;0=1,1=0.0965
+PRP Capacitance_@_Vr__F '-'
+PRP Category 'Discrete Semiconductor Products'
+PRP ComponentLink1Description 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001304.pdf'
+PRP ComponentLink1URL 'http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00001304.pdf'
+PRP Current_-_Average_Rectified_(Io) '1A'
+PRP Current_-_Reverse_Leakage_@_Vr '4µA @ 100V'
+PRP Diode_Type 'Schottky'
+PRP Manufacturer 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'STPS1H100A'
+PRP Mounting_Type 'Surface Mount'
+PRP Package_/_Case 'DO-214AC, SMA'
+PRP Packaging 'Digi-Reel®'
+PRP Pricing_1 '1=0.41, 10=0.345, 25=0.3024, 100=0.259, 250=0.2246, 500=0.19026, 1000=0.14667, 2500=0.1341 (EUR)'
+PRP Reverse_Recovery_Time_(trr) '-'
+PRP RoHS 'RoHS Compliant'
+PRP Speed 'Fast Recovery =< 500ns, > 200mA (Io)'
+PRP Stock_1 '111470'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Device_Package 'SMA'
+PRP Supplier_Part_Number_1 '497-3209-6-ND'
+PRP Text_Field1 '111565'
+PRP Text_Field7 'STMicroelectronics: STPS1H100A'
+PRP Voltage_-_DC_Reverse_(Vr)_(Max) '100V'
+PRP Voltage_-_Forward_(Vf)_(Max)_@_If '770mV @ 1A'
+TOP 0 4.5885821 0.767717 180 N 27 2 1
+TOP 1 4.4299203 0.7677172 180 N 39 11 2
+#
+# CMP 51
+CMP 0 2.8149607 0.6147917 270 N C6 1_F/50V/X5R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '163284'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '1µF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 'X5R'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+PRP Text_Field8 '4'
+TOP 0 2.8149607 0.6147917 270 N 44 77 1
+TOP 1 2.8149608 0.6757915 270 N 26 3 2
+#
+# CMP 52
+CMP 0 2.7952757 1.09252 90 N C8 2.2NF/50V/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink1URL 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1455899.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1455899.zip'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C222K5RAC   TU'
+PRP Pricing_1 '1=0,009, 10=0,009, 100=0,008, 500=0,006, 1000=0,005, 2500=0,005 (EUR)'
+PRP RoHS 'YES'
+PRP Stock_1 '3711'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1167798'
+PRP Text_Field1 '102033'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+TOP 0 2.7952757 1.09252 90 N 44 75 1
+TOP 1 2.7952756 1.0315202 90 N 24 3 2
+#
+# CMP 53
+CMP 1 4.5926411 0.649607 0 N C11 47_F/25V/X5R ;0=1,1=0.0217
+PRP Capacitance '47uF'
+PRP Case_Code_(Imperial) '1206'
+PRP Case_Code_(Metric) '3216'
+PRP Case/Package '1206'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/documents/chara_sheet/C3216X5R1E476M160AC.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/documents/chara_sheet/C3216X5R1E476M160AC.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'http://www.tdk.com/pdf/general_B11.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3URL 'http://www.tdk.com/pdf/general_B11.pdf?src-supplier=Future+Electronics'
+PRP Composition 'Ceramic'
+PRP Depth '1.6mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '1.6mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '3.2mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C3216X5R1E476M160AC'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '2000=0.385, 4000=0.37125, 10000=0.3575, 14000=0.35063 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock '216000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-8047-2-ND'
+PRP Termination 'SMD/SMT'
+PRP Text_Field1 '153145'
+PRP Text_Field7 'TDK: C3216X5R1E476M160AC'
+PRP Thickness '1.6mm'
+PRP Tolerance '20%'
+PRP Voltage '25V'
+PRP Voltage_Rating '25V'
+PRP Voltage_Rating_(DC) '25V'
+PRP Weight '0.000571oz'
+PRP Width '0.063inch'
+TOP 0 4.5926411 0.649607 180 N 44 73 1
+TOP 1 4.4746411 0.6496071 180 N 39 8 2
+#
+# CMP 54
+CMP 1 4.3799756 0.8956699 180 N C2 1_F/50V/X7R ;0=1,1=0.0217
+PRP Text_Field1 '80129'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '1206'
+PRP Text_Field4 '1µF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 '10%'
+PRP Text_Field7 '1206, 50V, ±10%, X7R'
+PRP Text_Field8 '10'
+TOP 0 4.3799756 0.8956699 0 N 28 4 1
+TOP 1 4.4979756 0.8956698 0 N 27 3 2
+#
+# CMP 55
+CMP 1 4.5926411 0.5511817 0 N C10 47_F/25V/X5R ;0=1,1=0.0217
+PRP Capacitance '47uF'
+PRP Case_Code_(Imperial) '1206'
+PRP Case_Code_(Metric) '3216'
+PRP Case/Package '1206'
+PRP ComponentLink1Description 'https://product.tdk.com/info/en/documents/chara_sheet/C3216X5R1E476M160AC.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://product.tdk.com/info/en/documents/chara_sheet/C3216X5R1E476M160AC.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2Description 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink2URL 'https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?src-supplier=Digi-Key'
+PRP ComponentLink3Description 'http://www.tdk.com/pdf/general_B11.pdf?src-supplier=Future+Electronics'
+PRP ComponentLink3URL 'http://www.tdk.com/pdf/general_B11.pdf?src-supplier=Future+Electronics'
+PRP Composition 'Ceramic'
+PRP Depth '1.6mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '1.6mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '3.2mm'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C3216X5R1E476M160AC'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP Pricing_1 '2000=0.385, 4000=0.37125, 10000=0.3575, 14000=0.35063 (USD)'
+PRP REACH_SVHC 'No SVHC'
+PRP Stock '216000'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-8047-2-ND'
+PRP Termination 'SMD/SMT'
+PRP Text_Field1 '153145'
+PRP Text_Field7 'TDK: C3216X5R1E476M160AC'
+PRP Thickness '1.6mm'
+PRP Tolerance '20%'
+PRP Voltage '25V'
+PRP Voltage_Rating '25V'
+PRP Voltage_Rating_(DC) '25V'
+PRP Weight '0.000571oz'
+PRP Width '0.063inch'
+TOP 0 4.5926411 0.5511817 180 N 44 74 1
+TOP 1 4.4746411 0.5511818 180 N 39 7 2
+#
+# CMP 56
+CMP 0 4.3602594 0.5944891 180 N C13 4.7pF/100V/0603 ;0=1,1=0.0177
+PRP Text_Field1 '87196'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '4.7nF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 '10%'
+PRP Text_Field7 '0603,50V, ±10%, X7R'
+PRP Text_Field8 '4'
+TOP 0 4.3602594 0.5944891 0 N 22 11 1
+TOP 1 4.4212592 0.594489 0 N 39 9 2
+#
+# CMP 57
+CMP 0 4.1732281 0.4921264 270 N C15 2.2NF/50V/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink1URL 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1455899.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1455899.zip'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C222K5RAC   TU'
+PRP Pricing_1 '1=0,009, 10=0,009, 100=0,008, 500=0,006, 1000=0,005, 2500=0,005 (EUR)'
+PRP RoHS 'YES'
+PRP Stock_1 '3711'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1167798'
+PRP Text_Field1 '102033'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+TOP 0 4.1732281 0.4921264 270 N 44 71 1
+TOP 1 4.1732282 0.5531262 270 N 20 3 2
+#
+# CMP 58
+CMP 0 4.2322831 0.614792 270 N C12 1_F/50V/X5R/0603 ;0=1,1=0.0177
+PRP Text_Field1 '163284'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '1µF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 'X5R'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+PRP Text_Field8 '4'
+TOP 0 4.2322831 0.614792 270 N 44 72 1
+TOP 1 4.2322832 0.6757918 270 N 23 3 2
+#
+# CMP 59
+CMP 0 2.9606534 0.6102364 180 N C14 4.7pF/100V/0603 ;0=1,1=0.0177
+PRP Text_Field1 '87196'
+PRP Text_Field2 'SMD'
+PRP Text_Field3 '0603'
+PRP Text_Field4 '4.7nF'
+PRP Text_Field5 '50V'
+PRP Text_Field6 '10%'
+PRP Text_Field7 '0603,50V, ±10%, X7R'
+PRP Text_Field8 '4'
+TOP 0 2.9606534 0.6102364 0 N 21 13 1
+TOP 1 3.0216532 0.6102363 0 N 36 3 2
+#
+# CMP 60
+CMP 0 5.0511811 0.3149606 90 N C9 100NF/50V/0603 ;0=1,1=0.0177
+PRP Anschlusstyp 'Surface Mount (SMD, SMT)'
+PRP Betriebstemperaturbereich '-55°C bis +125'
+PRP Breite/Weite '0.8'
+PRP Capacitor_Terminals 'SMD'
+PRP ComponentLink1Description 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink1URL 'http://www.farnell.com/datasheets/75233.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1558668.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1558668.zip'
+PRP Dielektrische_Charakteristik 'X7R'
+PRP Gehäusetyp '0603'
+PRP Kapazitätstoleranz '± 10%'
+PRP Kapazitätswert '0.1'
+PRP Kondensatorgehäusestil '0603 [1608 Metric]'
+PRP Länge/Höhe__Außen- '1.6'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603X104K5RACTU'
+PRP Min_Betriebstemperatur '-55'
+PRP Nennspannung '50'
+PRP Pin__Anzahl_der '2'
+PRP Pricing_1 '10=0,084, 100=0,042, 500=0,029, 1000=0,021, 4000=0,016 (EUR)'
+PRP RoHS 'YES'
+PRP Serie 'FT'
+PRP Stock_1 '97613'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1414028'
+PRP SVHC 'No SVHC (18-Jun-2012)'
+PRP Temperatur__Betriebs-_max. '125'
+PRP Text_Field1 '113024'
+PRP Text_Field7 '0603, 50V, ±10%, X7R'
+PRP Tiefe__Außen '0.8'
+PRP Toleranz_+ '10%'
+PRP Toleranz_- '10%'
+PRP VDC Nennspannung '50'
+TOP 0 5.0511811 0.3149606 90 N 0 2 1
+TOP 1 5.051181 0.2539608 90 N 39 13 2
+#
+# CMP 61
+CMP 0 4.3110233 0.6757918 90 N C4 4.7_F/35V/0603 ;0=1,1=0.0177
+PRP Capacitance '4.7uF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X5R1V475K080AC'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistor_Type 'Ceramic'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'C'
+PRP Stock '37688'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-9064-1-ND'
+PRP Termination 'SMD/SMT'
+PRP Text_Field1 '160313'
+PRP Text_Field7 'TDK: C1608X5R1V475K080AC'
+PRP Thickness '0.039inch'
+PRP Tolerance '10%'
+PRP Voltage_Rating '35V'
+PRP Voltage_Rating_(DC) '35V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.031inch'
+TOP 0 4.3110233 0.6757918 90 N 30 20 1
+TOP 1 4.3110232 0.614792 90 N 44 79 2
+#
+# CMP 62
+CMP 0 2.7559057 0.4921261 270 N C7 2.2NF/50V/0603 ;0=1,1=0.0177
+PRP ComponentLink1Description 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink1URL 'http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfiles/KEM_C1002_X7R_SMD.pdf/$file/KEM_C1002_X7R_SMD.pdf'
+PRP ComponentLink2Description 'http://www.farnell.com/cad/1455899.zip'
+PRP ComponentLink2URL 'http://www.farnell.com/cad/1455899.zip'
+PRP Manufacturer 'KEMET'
+PRP Manufacturer_Part_Number 'C0603C222K5RAC   TU'
+PRP Pricing_1 '1=0,009, 10=0,009, 100=0,008, 500=0,006, 1000=0,005, 2500=0,005 (EUR)'
+PRP RoHS 'YES'
+PRP Stock_1 '3711'
+PRP Supplier_1 'Farnell'
+PRP Supplier_Part_Number_1 '1167798'
+PRP Text_Field1 '102033'
+PRP Text_Field7 '0603, 50V, ±10%, X5R'
+TOP 0 2.7559057 0.4921261 270 N 44 76 1
+TOP 1 2.7559058 0.5531259 270 N 25 3 2
+#
+# CMP 63
+CMP 1 2.9036534 0.5314961 180 N C1 4.7_F/100V/X7S ;0=1,1=0.0217
+PRP ComponentLink1Description 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CC72A475KE11-01A.pdf?src-supplier=Digi-Key'
+PRP ComponentLink1URL 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CC72A475KE11-01A.pdf?src-supplier=Digi-Key'
+PRP Manufacturer 'Murata'
+PRP Manufacturer_Part_Number 'GRM31CC72A475KE11L'
+PRP Pricing_1 '2000=0.29325 (USD)'
+PRP RoHS_Compliant 'Yes'
+PRP Stock '0'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-18620-2-ND'
+PRP Text_Field1 '160347'
+PRP Text_Field7 'Murata: GRM31CC72A475KE11L'
+TOP 0 2.9036534 0.5314961 0 N 44 81 1
+TOP 1 3.0216534 0.531496 0 N 36 5 2
+#
+# CMP 64
+CMP 0 5.2480315 0.3149606 90 N C5 1_F/25V/X7R/0603 ;0=1,1=0.0177
+PRP Applications 'General Purpose'
+PRP Capacitance '1µF'
+PRP Catalog_Drawings 'xMK Series_0603_0.8'
+PRP Category 'Capacitors'
+PRP ComponentLink1Description 'https://datasheet.ciiva.com/15922/374tmk107b7105ka-t-15922376.pdf'
+PRP ComponentLink1URL 'https://datasheet.ciiva.com/15922/374tmk107b7105ka-t-15922376.pdf'
+PRP ComponentLink2Description 'https://datasheet.ciiva.com/30163/854tmk107b7105ka-t-30163691.pdf'
+PRP ComponentLink2URL 'https://datasheet.ciiva.com/30163/854tmk107b7105ka-t-30163691.pdf'
+PRP ComponentLink3Description 'https://datasheet.ciiva.com/2990/tmk107b7105ka-t-ss-2990064.pdf'
+PRP ComponentLink3URL 'https://datasheet.ciiva.com/2990/tmk107b7105ka-t-ss-2990064.pdf'
+PRP ComponentLink4Description 'https://datasheet.ciiva.com/133/tmk107b7105ka-t-ss-133732.pdf'
+PRP ComponentLink4URL 'https://datasheet.ciiva.com/133/tmk107b7105ka-t-ss-133732.pdf'
+PRP Family 'Ceramic Capacitors'
+PRP Features '-'
+PRP Height_-_Seated_(Max) '-'
+PRP Lead_Spacing '-'
+PRP Lead_Style '-'
+PRP Manufacturer 'Taiyo Yuden'
+PRP Manufacturer_Part_Number 'TMK107B7105KA-T'
+PRP Mounting_Type 'Surface Mount, MLCC'
+PRP Online_Catalog 'M Series'
+PRP Operating_Temperature '-55°C ~ 125°C'
+PRP Other_Names '587-2984-6'
+PRP Package_/_Case '0603 (1608 Metric)'
+PRP Packaging 'Digi-Reel®'
+PRP Pricing_1 '4000=0.0121, 8000=0.011, 12000=0.0105, 28000=0.01, 100000=0.0073 (USD)'
+PRP Ratings '-'
+PRP Series 'M'
+PRP Size_/_Dimension '0.063_ L x 0.031_ W (1.60mm x 0.80mm)'
+PRP Standard_Package '1'
+PRP Stock '1604000'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '587-2984-2-ND'
+PRP Temperature_Coefficient 'X7R'
+PRP Text_Field1 '138672'
+PRP Text_Field7 '0603, 25V, ±10%, X7R'
+PRP Thickness_(Max) '0.035_ (0.90mm)'
+PRP Tolerance '±10%'
+PRP Voltage_-_Rated '25V'
+TOP 0 5.2480315 0.3149606 90 N 44 78 1
+TOP 1 5.2480314 0.2539608 90 N 37 25 2
+#
+# CMP 65
+CMP 0 2.8937009 0.6757915 90 N C3 4.7_F/35V/0603 ;0=1,1=0.0177
+PRP Capacitance '4.7uF'
+PRP Case_Code_(Imperial) '0603'
+PRP Case_Code_(Metric) '1608'
+PRP Case/Package '0603'
+PRP ComponentLink1Description 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP ComponentLink1URL 'http://www.mouser.com/ds/2/400/lcc_commercial_general_en-837201.pdf?src-supplier=Mouser'
+PRP Depth '0.8mm'
+PRP Dielectric 'X5R'
+PRP Dielectric_Material 'Ceramic'
+PRP Height '0.8mm'
+PRP Lead_Free 'Lead Free'
+PRP Length '0.063inch'
+PRP Manufacturer 'TDK'
+PRP Manufacturer_Part_Number 'C1608X5R1V475K080AC'
+PRP Max_Operating_Temperature '85°C'
+PRP Min_Operating_Temperature '-55°C'
+PRP Mount 'Surface Mount'
+PRP Package_Quantity '1'
+PRP Packaging 'Tape and Reel'
+PRP REACH_SVHC 'No SVHC'
+PRP Resistor_Type 'Ceramic'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'C'
+PRP Stock '37688'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-9064-1-ND'
+PRP Termination 'SMD/SMT'
+PRP Text_Field1 '160313'
+PRP Text_Field7 'TDK: C1608X5R1V475K080AC'
+PRP Thickness '0.039inch'
+PRP Tolerance '10%'
+PRP Voltage_Rating '35V'
+PRP Voltage_Rating_(DC) '35V'
+PRP Weight '7.1E-05oz'
+PRP Width '0.031inch'
+TOP 0 2.8937009 0.6757915 90 N 30 21 1
+TOP 1 2.8937008 0.6147917 90 N 44 80 2
+#
+# CMP 66
+CMP 9 2.8248034 0.8366147 270 N U1 LT8361EMSE#PBF ;0=1,1=0.0433
+PRP Datasheet_Link 'https://www.mouser.fi/datasheet/2/609/lt8361-1568840.pdf'
+PRP Geometry.Height '1.1mm'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'LT8361EMSE#PBF'
+PRP Mouser_Part_Number '584-LT8361EMSE#PBF'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8361EMSEPBF?qs=y6ZabgHbY%252ByVuSTCW6h07w%3D%3D'
+TOP 0 2.893701 0.751969 270 N 30 13 1
+TOP 1 2.854331 0.751969 270 N 30 12 3
+TOP 2 2.8149609 0.751969 270 N 26 2 5
+TOP 3 2.7952758 0.751969 270 N 0 7 6
+TOP 4 2.7755908 0.751969 270 N 44 32 7
+TOP 5 2.7559058 0.751969 270 N 11 2 8
+TOP 6 2.7559058 0.9212604 270 N 21 10 9
+TOP 7 2.7755908 0.9212604 270 N 10 2 10
+TOP 8 2.7952758 0.9212604 270 N 24 2 11
+TOP 9 2.8149609 0.9212604 270 N 44 33 12
+TOP 10 2.854331 0.9212604 270 N 13 2 14
+TOP 11 2.893701 0.9212604 270 N 13 1 16
+TOP 12 2.8248002 0.8366115 270 N 44 31 17
+#
+# CMP 67
+CMP 9 3.5334613 0.8366114 270 N U2 LT8361EMSE#PBF ;0=1,1=0.0433
+PRP Datasheet_Link 'https://www.mouser.fi/datasheet/2/609/lt8361-1568840.pdf'
+PRP Geometry.Height '1.1mm'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'LT8361EMSE#PBF'
+PRP Mouser_Part_Number '584-LT8361EMSE#PBF'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Analog-Devices/LT8361EMSEPBF?qs=y6ZabgHbY%252ByVuSTCW6h07w%3D%3D'
+TOP 0 3.6023589 0.7519657 270 N 30 11 1
+TOP 1 3.5629889 0.7519657 270 N 30 10 3
+TOP 2 3.5236188 0.7519657 270 N 17 2 5
+TOP 3 3.5039337 0.7519657 270 N 0 11 6
+TOP 4 3.4842487 0.7519657 270 N 44 29 7
+TOP 5 3.4645637 0.7519657 270 N 7 2 8
+TOP 6 3.4645637 0.9212571 270 N 18 10 9
+TOP 7 3.4842487 0.9212571 270 N 6 2 10
+TOP 8 3.5039337 0.9212571 270 N 15 2 11
+TOP 9 3.5236188 0.9212571 270 N 44 30 12
+TOP 10 3.5629889 0.9212571 270 N 14 2 14
+TOP 11 3.6023589 0.9212571 270 N 14 1 16
+TOP 12 3.5334581 0.8366082 270 N 44 28 17
+#
+# CMP 68
+CMP 4 6.5354331 1.4173228 90 N J1 490107671212 ;0=2,1=0.4114
+PRP Category 'Wire-to-Board Connectors'
+PRP ComponentLink1Description 'Website Link'
+PRP ComponentLink1URL 'https://www.we-online.com/redexpert/article/490107671212?ad'
+PRP ComponentLink2Description 'Datasheet Link'
+PRP ComponentLink2URL 'https://www.we-online.com/redexpert/spec/490107671212?ad'
+PRP Contact_Resistance '10mO'
+PRP Gender 'Transition'
+PRP Manufacturer 'Wurth Elektronik'
+PRP Manufacturer_Part_Number '490107671212'
+PRP Match_Code 'WR-WST'
+PRP Mount 'Press Fit'
+PRP Number_of_Pins '12'
+PRP Operating_Temperature_Max '105°C'
+PRP Operating_Temperature_Min '-25°C'
+PRP Packaging 'Tube'
+PRP Pitch '2.54mm'
+PRP Rated_Current '1A'
+PRP Working_Voltage '100VAC'
+TOP 0 6.4854331 1.1423228 90 N 45 5 1
+TOP 1 6.5854331 1.1923228 90 N 4 5 2
+TOP 2 6.4854331 1.2423228 90 N 3 5 3
+TOP 3 6.5854331 1.2923228 90 N 2 5 4
+TOP 4 6.4854331 1.3423228 90 N 1 4 5
+TOP 5 6.5854331 1.3923228 90 N 44 44 6
+TOP 6 6.4854331 1.4423228 90 N 44 45 7
+TOP 7 6.5854331 1.4923228 90 N 42 0 8
+TOP 8 6.4854331 1.5423228 90 N 44 48 9
+TOP 9 6.5854331 1.5923228 90 N 44 46 10
+TOP 10 6.4854331 1.6423228 90 N 43 5 11
+TOP 11 6.5854331 1.6923228 90 N 44 47 12
+TOP 12 6.4854331 1.744685 90 N 0 59 MH1
+TOP 13 6.5854331 1.0899606 90 N 0 58 MH2
+#
