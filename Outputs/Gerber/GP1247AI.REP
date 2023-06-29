@@ -2,63 +2,40 @@
 FileName = GP1247AI.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : GP1247AI.GTL
+Generating : Top Paste
+      File : GP1247AI.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
 
     Adding Layer      : Top Layer
 
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
+    D12
     D16
     D17
     D18
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
 *************************************************************
 
 *************************************************************
-Generating : Layer 1
-      File : GP1247AI.G1
+Generating : Mechanical 3
+      File : GP1247AI.GM3
 
-    Adding Layer      : Layer 1
+    Adding Layer      : Mechanical 3
 
     Adding Layer      : Mechanical 1
 
     Adding Layer      : Mechanical 3
 
-    Adding Layer      : Multi-Layer
-
 
 Used DCodes :
-    D11
-    D32
-    D34
-    D37
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
+    D12
 *************************************************************
 
 *************************************************************
@@ -75,16 +52,138 @@ Generating : Layer 2
 
 
 Used DCodes :
-    D11
-    D32
+    D12
+    D33
     D34
-    D37
-    D41
+    D35
+    D38
+    D39
+    D40
     D42
     D43
-    D45
+    D44
     D47
     D48
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : GP1247AI.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D33
+    D34
+    D35
+    D38
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : GP1247AI.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D91
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : GP1247AI.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D33
+    D48
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : GP1247AI.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
@@ -101,16 +200,16 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D18
-    D32
+    D12
+    D16
+    D33
     D34
+    D35
     D36
     D37
     D38
     D39
     D40
-    D41
     D42
     D43
     D44
@@ -137,143 +236,6 @@ Used DCodes :
     D66
     D67
     D68
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : GP1247AI.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : GP1247AI.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D32
-    D48
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : GP1247AI.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 3
-      File : GP1247AI.GM3
-
-    Adding Layer      : Mechanical 3
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
-
-Used DCodes :
-    D11
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : GP1247AI.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : GP1247AI.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 3
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
 *************************************************************
 
 *************************************************************
@@ -292,17 +254,19 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D11
-    D21
+    D12
+    D19
     D22
+    D23
     D24
     D25
     D26
     D27
     D28
-    D29
     D30
     D31
+    D69
+    D70
     D71
     D72
     D73
@@ -323,47 +287,93 @@ Used DCodes :
     D88
     D89
     D90
-    D91
-    D92
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : GP1247AI.GBP
+Generating : Top Solder
+      File : GP1247AI.GTS
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Top Solder
 
     Adding Layer      : Mechanical 1
 
     Adding Layer      : Mechanical 3
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
+    D12
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : GP1247AI.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D17
     D18
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : GP1247AI.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 3
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : GP1247AI.GM
+
+
+Used DCodes :
+    D104
 *************************************************************
 

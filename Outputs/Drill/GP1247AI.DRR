@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: GP1247AI.PCBDOC   28.06.2023  09:59:10
+NCDrill File Report For: GP1247AI.PCBDOC   29.06.2023  12:16:11
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,7 +9,7 @@ EIA File   : GP1247AI.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             107       PTH        327.83mm (12.91inch)
+T1      0.3mm (12mil)                                             Round             116       PTH        351.88mm (13.85inch)
 T2      0.4mm (16mil)                                             Round             40        PTH        45.01mm (1.77inch)
 T3      0.75mm (30mil)                                            Slot              65        PTH        272.75mm (10.74inch)
 T4      1.3mm (51mil)                                             Round             2         PTH        57.57mm (2.27inch)
@@ -18,6 +18,6 @@ T6      2.1mm (83mil)                                             Round         
 T7      2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
 T8      4.4mm (173mil)                                            Round             4         NPTH       370.00mm (14.57inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              232
+Totals                                                                              241
 
 Total Processing Time (hh:mm:ss) : 00:00:00
